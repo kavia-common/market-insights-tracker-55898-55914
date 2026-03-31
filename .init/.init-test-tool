@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/market-insights-tracker-55898-55914/backend_api"
+}
